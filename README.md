@@ -18,7 +18,7 @@ con importi, requisiti, scadenze e link alle pagine ufficiali.
 
 Tutti i dati provengono dalle pagine ufficiali della Regione Autonoma Friuli Venezia Giulia
 e di ARDiS FVG, dal Bando unico per il diritto allo studio universitario a.a. 2026/2027 e dai
-relativi decreti. Ultimo controllo: 18 agosto 2026.
+relativi decreti. Ultimo controllo: 9 settembre 2026.
 
 I dati non ancora pubblicati sono segnalati nella pagina come «da verificare» e non sono stimati.
 Importi e scadenze possono cambiare: prima di presentare una domanda conviene sempre riaprire
